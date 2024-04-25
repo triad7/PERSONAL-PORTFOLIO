@@ -33,17 +33,7 @@ const SocialLinks = () => {
       ),
       href: "mailto:ashutoshm.1337@gmail.com",
     },
-    {
-      id: 4,
-      child: (
-        <>
-          Resume <BsFillPersonLinesFill size={30} />
-        </>
-      ),
-      href: "src/portfolio/naukriresume.pdf",
-      style: "rounded-br-md",
-      download: true,
-    },
+    
   ];
 
   return (
